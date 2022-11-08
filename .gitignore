@@ -3,7 +3,7 @@
 /test/
 
 # top level source
-content-visibility.js
-content-visibility.js.map
-content-visibility.d.ts
-content-visibility.d.ts.map
+# content-visibility.js
+# content-visibility.js.map
+# content-visibility.d.ts
+# content-visibility.d.ts.map
